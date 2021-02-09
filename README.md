@@ -1,4 +1,4 @@
-# Using QAOA to solve the weighted max cut problem
+# Generalized QAOA to solve the weighted max cut problem
 Inspired by [Jack Ceroni's QAOA MaxCut implementation](https://lucaman99.github.io/new_blog/2020/mar16.html), I built this algorithm to extend his code to weighted MaxCut graphs as well. This QAOA finds the optimal cut given just the input graph specifications (number of nodes and edges). In the notebook, I demonstrate the algorithm on the following weighted graph:
 
 ![](./images/download%20(1).png)
