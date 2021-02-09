@@ -1,1 +1,1 @@
-# generalized-weighted-max-cut
+# Using QAOA to solve the weighted max cut problem
