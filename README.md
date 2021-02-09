@@ -1,0 +1,1 @@
+# generalized-weighted-max-cut
