@@ -11,10 +11,10 @@ This QAOA algorithm will solve a more general version of this problem called wei
 
 In the notebook, I demonstrate the algorithm on the following weighted graphs:
 
-Graph                                     |  Computed solution
+**Graph**                                     |  **Computed solution**
 :-------------------------:|:-------------------------:
-![](images/weighted_unsolved_simple.png)  |  ![](images/weighted_solved_simple.png)
-![](images/weighted_unsolved_complex.png)  |  ![](images/weighted_solved_complex.png)
+| ![](images/weighted_unsolved_simple.png)  |  ![](images/weighted_solved_simple.png) |
+| ![](images/weighted_unsolved_complex.png)  |  ![](images/weighted_solved_complex.png) |
 
 ## References
 * Fun With Graphs and QAOA (https://lucaman99.github.io/new_blog/2020/mar16.html)
