@@ -1,5 +1,5 @@
 # Generalized QAOA to solve the weighted Max-Cut problem
-### If the notebook is failing to load, try this [link](https://nbviewer.jupyter.org/github/Sinestro38/Using-QAOA-to-make-a-generalized-weighted-MaxCutsolver/blob/main/Weighted%20max-cut%20graph.ipynb) to view the notebook on NBViewer
+### If the notebook is failing to load, try this [link](https://nbviewer.jupyter.org/github/Sinestro38/Generalized-QAOA-to-solve-the-weighted-max-cut-problem/blob/main/Weighted_max_cut_graph.ipynb) to view the notebook on NBViewer
 
 This repository contains a generalized QAOA algorithm that solves MaxCut for both weighted and unweighted graphs. 
 
